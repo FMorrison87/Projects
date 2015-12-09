@@ -1,0 +1,161 @@
+body {
+}
+
+#GooglePage {
+	display: block;
+	text-align: -webkit-center;
+	margin-top: 80px;
+}
+
+#header {
+	position: absolute;
+	top: 0;
+	display: block;
+	top: 10px;
+	}
+
+#toptext {
+	font-family: Arial, sans-serif;
+	font-size: 13px;
+	padding: 10px;
+	display: inline-block;
+	margin-left: 750px;
+	
+
+}
+
+.toptext1 {
+	float: left;
+	padding: 10px;
+
+}
+
+.toptext2 {
+	overflow: hidden;
+}
+
+#boxes {
+	margin-left: 850px;
+	float: right;
+}
+
+.box1 {
+	width: 2px;
+	height: 2px;
+	position: relative;
+	top: -40px;
+	left: 15px;
+	background-color: gray;
+	float: right;
+	padding: 1px;
+	margin: 1px;
+
+}
+
+.box2 {
+	width: 2px;
+	height: 2px;
+	background-color: gray;
+	float: right;
+	padding: 1px;
+	margin: 1px;
+	position: relative;
+	top: -33px;
+	left: 33px;
+
+}
+
+.box3 {
+	width: 2px;
+	height: 2px;
+	background-color: gray;
+	float: right;
+	padding: 1px;
+	margin: 1px;
+	position: relative;
+	top: -26px;
+	left: 51px;
+
+}
+
+#button {
+	margin-left: 940px;
+	position: absolute;
+	top: 13px;
+
+}
+
+.button {
+	background-color: #4285f4;
+	width: 70px;
+	height: 30px;
+	border-radius: 2px;
+
+}
+
+.buttontext {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	color: white;
+	font-size: 12px;
+	position: relative;
+	top: -23px;
+
+}
+
+img {
+	margin-top: 109px;
+	width: 292px;
+	height: 92px;
+}
+
+input[type=submit] {
+    padding:10px 15px; 
+    margin: 5px;
+    background:#f2f2f2; 
+    border:0 none;
+    cursor:pointer;
+    border-radius: 2px;
+    border-radius: -webkit-2px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #757575;
+    font-weight: bold;
+}
+
+input[type=text] {
+    padding:10px 10px; 
+    }
+
+#footer {
+	height: 40px;
+	width: 1058px;
+	display: inline-block;
+	line-height: 40px;
+	margin-left: -527px;
+	border-top: 1px solid #e4e4e4;
+	min-width: 980px;
+	position: absolute;
+	bottom: 0;
+	background-color: #f2f2f2;
+	background-repeat: repeat-x;
+	color: #757575;
+    }
+
+.left {
+	font-family: Arial, sans-serif;
+	font-size: 13px;
+	position: relative;
+	float: left;
+	padding: 20px;
+	bottom: 20px;
+    }
+
+.right {
+	font-family: Arial, sans-serif;
+	font-size: 13px;
+	position: relative;
+	float: right;
+	padding: 20px;
+	bottom: 20px;
+    }
