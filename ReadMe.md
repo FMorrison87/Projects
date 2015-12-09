@@ -1,0 +1,1 @@
+Hello! I am currently learning to be a software developer. I am currently working on the front-end. Here I am housing all of my current projects. Thanks for looking!
