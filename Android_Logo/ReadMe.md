@@ -1,0 +1,1 @@
+This is a folder containing a replica of the Android logo that I created following a tutorial from theodinproject.com

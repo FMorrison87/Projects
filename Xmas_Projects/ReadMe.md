@@ -1,0 +1,1 @@
+This is a directory housing the HTML/CSS projects I'm working on for xmas 2015'
