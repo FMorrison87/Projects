@@ -1,0 +1,1 @@
+This project was created for TheOdinProject.com. It was to create a working ‘Etch-A-Sketch’ with a user input feature to determine the size of the etch-a-sketch pad.
